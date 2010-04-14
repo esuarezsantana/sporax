@@ -1,0 +1,18 @@
+// asciidoc format
+// utf-8 encoding
+
+README
+======
+Eduardo Suarez-Santana <http://e.suarezsantana.com/>
+
+  SPORAX = SPanish + dvORAk + uniX
+
+'sporax' is a keyboard layout for X.org. It consists of an improved
+spanish dvorak layout with direct access to most of the punctuation
+marks used in unix environment.
+
+This is a derivative work from
+http://cgit.freedesktop.org/xkeyboard-config/
+
+For more information, follow me at http://e.suarezsantana.com/
+

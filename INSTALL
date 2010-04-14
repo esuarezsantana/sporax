@@ -1,0 +1,22 @@
+// asciidoc format
+// utf-8 encoding
+
+INSTALL
+=======
+
+To install this layout:
+
+1. Identify your 'xkeyboard' directory. In my distro, it is
+   `/usr/share/X11/xkb`.  I will call it `$XKBDIR`.
+
+2. Substitute `$XKBDIR/symbols/es` with the one provided.
+
+3. Modify next files, adding 'sporax' appropriately:
+
+  - `$XKBDIR/rules/base.lst`
+  - `$XKBDIR/rules/base.xml`
+  - `$XKBDIR/rules/evdev.lst`
+  - `$XKBDIR/rules/evdev.xml`
+
+4. Restart X server.
+

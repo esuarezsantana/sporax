@@ -213,12 +213,13 @@ xkb_symbols "sporax" {
 
     name[Group1]="Spain - Sporax";
 
+    key <TLDE> {[  backslash, asciitilde, masculine, ordfeminine        ]};
     key <AE03> {[          3, asciicircum, numbersign, threesuperior	]};
+    key <AE04> {[          4, dollar, degree, onequarter		]};
     key <AE07> {[          7, dead_grave, onehalf, seveneighths         ]};
     key <AE09> {[          9, parenright, periodcentered		]};
     key <AC04> {[          i, I, aring, Aring                           ]};
     key <AC05> {[          u, U, oe, OE                                 ]};
-    key <TLDE> {[  backslash, ordfeminine, masculine, backslash         ]};
 
     key <AD11> {[      slash, asterisk, dead_circumflex, dead_caron	]};
     key <AD12> {[bracketleft, braceleft, plusminus, dead_cedilla	]};
